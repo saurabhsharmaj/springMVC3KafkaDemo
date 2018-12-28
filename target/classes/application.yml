@@ -4,5 +4,5 @@ server:
 kafka:
   consumer:
     bootstrap: localhost:9092
-    group: WorkUnitApp
-    topic: workunits
+    group: saurabh_local
+    topic: bars

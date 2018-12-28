@@ -1,9 +1,0 @@
-com\equinix\appops\config\KafkaConfigProperties.class
-com\equinix\appops\model\value\EmailVO.class
-com\equinix\appops\listeners\EmailKafkaListener.class
-com\equinix\appops\config\KafkaConfig.class
-com\equinix\appops\listeners\EmailConsumer.class
-com\equinix\appops\model\value\EmailAttachmentVO.class
-com\websystique\springmvc\controller\HelloWorldController.class
-com\equinix\appops\config\KafkaService.class
-com\equinix\appops\util\EmailVODeserializer.class

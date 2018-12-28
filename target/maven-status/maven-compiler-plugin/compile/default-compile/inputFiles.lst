@@ -1,9 +1,0 @@
-D:\JAVA Projects\EQUINIX\kafka-jms\springmvc\src\main\java\com\equinix\appops\model\value\EmailAttachmentVO.java
-D:\JAVA Projects\EQUINIX\kafka-jms\springmvc\src\main\java\com\equinix\appops\model\value\EmailVO.java
-D:\JAVA Projects\EQUINIX\kafka-jms\springmvc\src\main\java\com\equinix\appops\listeners\EmailConsumer.java
-D:\JAVA Projects\EQUINIX\kafka-jms\springmvc\src\main\java\com\equinix\appops\config\KafkaConfigProperties.java
-D:\JAVA Projects\EQUINIX\kafka-jms\springmvc\src\main\java\com\websystique\springmvc\controller\HelloWorldController.java
-D:\JAVA Projects\EQUINIX\kafka-jms\springmvc\src\main\java\com\equinix\appops\config\KafkaConfig.java
-D:\JAVA Projects\EQUINIX\kafka-jms\springmvc\src\main\java\com\equinix\appops\util\EmailVODeserializer.java
-D:\JAVA Projects\EQUINIX\kafka-jms\springmvc\src\main\java\com\equinix\appops\config\KafkaService.java
-D:\JAVA Projects\EQUINIX\kafka-jms\springmvc\src\main\java\com\equinix\appops\listeners\EmailKafkaListener.java
